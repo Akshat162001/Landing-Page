@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repository from this place to access the code and 
+1. Clone the repository from this place to access the code and make chnages the desirable chnages in it..
    ```sh
    git clone https://github.com/Akshat162001/Landing-Page/tree/main
    ```
