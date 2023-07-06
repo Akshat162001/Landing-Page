@@ -17,6 +17,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repository from this place to access the code and make chnages the desirable chnages in it..
    ```sh
    git clone https://github.com/Akshat162001/Landing-Page/tree/main
+   
    ```
 2. Run a local server, like Live Server
 
@@ -24,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**....
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated if u can make **....
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again! Contributors are always welcome here...
