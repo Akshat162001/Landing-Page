@@ -7,8 +7,10 @@ Its entire development process has been recorded for teaching purposes
 * HTML
 * CSS
 * JavaScript
+  
 
 * ## Getting Started
+  
 
 To get a local copy up and running follow these simple example steps.
 
