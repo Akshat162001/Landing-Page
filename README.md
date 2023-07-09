@@ -1,5 +1,5 @@
 # Landing-Page
-Simple Landing Front page
+Simple Landing Page
 Its entire development process has been recorded for teaching purposes
 
 ### Built With
