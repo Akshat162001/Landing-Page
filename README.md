@@ -32,7 +32,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again! Contributors are always welcome here...
 
 And I would like If add some changes in it
-#Happy Coding
+
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -40,4 +40,7 @@ And I would like If add some changes in it
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<h2>#Happy Coding</h2>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
