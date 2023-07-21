@@ -21,7 +21,8 @@ To get a local copy up and running follow these simple example steps.
    Use Shell:-
    git clone https://github.com/Akshat162001/Landing-Page/tree/main
    
-   ```
+
+   
 2. Run a local server, like Live Server
 
 <p align="right"> (<a href="#readme-top">back to top</a>)</p>
