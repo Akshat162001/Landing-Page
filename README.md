@@ -2,6 +2,7 @@
 
 Simple Landing Page
 
+
 Its entire development process has been recorded for teaching purposes
 
 
