@@ -7,6 +7,7 @@ Its entire development process has been recorded for teaching purposes
 
 ### Built With
 
+
 * HTML
 * CSS
 * JavaScript
